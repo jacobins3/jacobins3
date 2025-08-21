@@ -1,5 +1,5 @@
 <a href="https://jacobins3.github.io/yacobtt/">
-  <img width="100%" src="https://github.com/jacobins3/jacobins3/raw/master/cover_photo.jpg">
+  <img width="100%" src="https://github.com/jacobins3/jacobins3/raw/main/cover_photo.jpg">
 </a>
 
 ## **Biography**

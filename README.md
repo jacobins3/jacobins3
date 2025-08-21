@@ -42,9 +42,6 @@ Dr. Yacob T. Tesfaldet is an environmental data scientist and researcher with ov
   <a href="https://earthengine.google.com/" target="_blank">
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" height="40"/>
 </a>
-<a href="https://segment-anything.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Segment%20Anything-FF6F00?style=for-the-badge&logo=ai&logoColor=white" height="40"/>
-</a>
 <a href="https://en.wikipedia.org/wiki/Remote_sensing" target="_blank">
   <img src="https://img.shields.io/badge/Remote%20Sensing-2E7D32?style=for-the-badge&logo=satellite&logoColor=white" height="40"/>
 </a>
